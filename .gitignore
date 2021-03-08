@@ -105,3 +105,14 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,maven
+
+# MSGDesign-core
+MSGDesign-core/target
+
+# MSGDesign-spigot
+MSGDesign-spigot/target
+MSGDesign-spigot/.server
+
+# MSGDesign-minestom
+MSGDesign-minestom/target
+MSGDesign-minestom/.server
